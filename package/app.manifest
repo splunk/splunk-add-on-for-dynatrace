@@ -5,7 +5,7 @@
     "id": {
       "group": null,
       "name": "Splunk_TA_Dynatrace",
-      "version": "1.0.0"
+      "version": "1.2.0"
     },
     "author": [
       {
@@ -37,7 +37,7 @@
     "releaseNotes": {
       "name": "README",
       "text": "README.txt",
-      "uri": "https://docs.splunk.com/Documentation/AddOns/McAfeeEPOSyslog/About"
+      "uri": null
     }
   },
   "dependencies": null,
