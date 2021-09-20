@@ -25,7 +25,7 @@ splunk-sdk = "^1.6.16"
 six = "*"
 future = "*"
 splunk-packaging-toolkit = "^1.0.1"
-pytest-splunk-addon = "^1.8.0"
+pytest-splunk-addon = "^1.9.4"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
